@@ -1,7 +1,7 @@
 # A workshop on introductory Data Science and Machine Learning. 
-Conducted by: Abdullah Al Imran
-Email: [abdalimran@gmail.com]()
-Linkedin: [Abdullah Al Imran](https://www.linkedin.com/in/abdalimran/)
+* Conducted by: Abdullah Al Imran
+* Email: [abdalimran@gmail.com]()
+* Linkedin: [Abdullah Al Imran](https://www.linkedin.com/in/abdalimran/)
 
 # Table of contents
 * [Data Science: Birds Eye View](#data_science_view)
